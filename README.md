@@ -4,7 +4,7 @@ A book about  China, Ghana, and the Case for Technocratic Leadership, Strategic 
 # Governing for Development
 
 ### *China, Ghana, and the Case for Technocratic Leadership, Strategic Media, and National Transformation*
-<img src ="Book Cover.jpg" width="500px" height="500px">
+<img src ="Book Cover.jpg" width="700px" height="700px">
 
 **Author:** Solomon Yaw Adeklo  
 **Topics:** Ghana, China, governance, technocratic leadership, infrastructure, technology, media, national development
@@ -95,7 +95,10 @@ The book’s reform proposal is for Ghana to strengthen technical leadership wit
 
 ## Author
 
-![Portrait of Solomon Yaw Adeklo](pic-solo.png)
+![Portrait of Solomon Yaw Adeklo]
+<img src ="pic-solo.png" width="500px" height="500px">
+
+
 
 **Solomon Yaw Adeklo** is a Ghanaian software developer and a graduate of Valley View University, where he earned a degree in Information Technology. He also studied for a Bachelor of Arts in Integrated Development Studies at the University for Development Studies in Ghana. Although he did not complete that programme, the experience broadened his interdisciplinary understanding of the social, economic, and institutional dimensions of development.
 
