@@ -95,8 +95,7 @@ The book’s reform proposal is for Ghana to strengthen technical leadership wit
 
 ## Author
 
-![Portrait of Solomon Yaw Adeklo]
-<img src ="pic-solo.png" width="500px" height="500px">
+<img src ="pic-solo.png" width="400px" height="400px">
 
 
 
