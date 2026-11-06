@@ -4,8 +4,7 @@ A book about  China, Ghana, and the Case for Technocratic Leadership, Strategic 
 # Governing for Development
 
 ### *China, Ghana, and the Case for Technocratic Leadership, Strategic Media, and National Transformation*
-
-![Book cover for Governing for Development]<img src ="Book Cover.jpg" width="500px" height="500px">
+<img src ="Book Cover.jpg" width="500px" height="500px">
 
 **Author:** Solomon Yaw Adeklo  
 **Topics:** Ghana, China, governance, technocratic leadership, infrastructure, technology, media, national development
